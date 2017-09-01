@@ -1,0 +1,2 @@
+Make more robust inventory display
+Make fishing process
